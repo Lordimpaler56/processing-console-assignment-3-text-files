@@ -1,6 +1,5 @@
-Water
-Orange juice
-Chocolate milk
-Koolaid
-Coffee
-
+water
+orange juice
+chocolate milk
+koolaid
+coffee
